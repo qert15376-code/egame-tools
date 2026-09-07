@@ -27,7 +27,8 @@
       "js": [
         "js/auto_agree.js",
         "js/free_dojo.js",
-        "js/skip_checkin.js"
+        "js/skip_checkin.js",
+        "js/confirm_manual_download.js"
       ],
       "run_at": "document_idle"
     },
